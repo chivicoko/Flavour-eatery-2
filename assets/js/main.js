@@ -937,3 +937,12 @@
 
     imJs.m();
   })(jQuery, window)
+
+
+  // vc
+  // const disableBtns = document.querySelectorAll(".rts-header-right .button-area-banner a");
+  // disableBtns.forEach(btn => {
+  //   btn.addEventListener('click', (e) => {
+  //     e.preventDefault();
+  //   })
+  // });
